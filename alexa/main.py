@@ -5,4 +5,6 @@ pessoa = "http://www.trackandfield.com.br/wordpress/wp-content/uploads/2014/10/S
 # bom dia 
 def historia():
      cenapraia = Cena(ing = "https://beachpark.com.br/mobile/wp-content/themes/beachpark/img/praia/apresentacao.jpg")
+     cenapraia.vai()
 historia()
+
