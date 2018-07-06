@@ -56,3 +56,10 @@ SyntaxError: invalid syntax
                                                                                                                         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Jul 06 2018 10:48:29.446 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  nomeTexto = Texto(nomeCena, “texto”)
+                               ^
+SyntaxError: invalid syntax
+'''},
