@@ -35,3 +35,10 @@ TypeError: 'module' object is not callable
     cenacastelo = Cena(img = "https://upload.wikimedia.org/wikipedia/commons/8/88/Castelo_de_Guimar%C3%A3es_%28Portugal%29.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Fri Jul 06 2018 10:38:10.992 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  carro = Elemento(img = linkcarro, tit = "Carro", style = dict (top = 250, left = 150, height = 200, width = 10
+                                                                                                                       ^
+SyntaxError: invalid syntax
+'''},
