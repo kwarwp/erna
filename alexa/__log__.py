@@ -49,3 +49,10 @@ NameError: name 'Alexandre' is not defined
     pessoa.entra(Cenapraia)
 NameError: name 'Cenapraia' is not defined
 '''},
+{'date': 'Fri Jul 06 2018 10:54:02.344 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtpessoa = Texto(cenapraia, "bom dia”)
+                                         ^
+SyntaxError: EOL while scanning string literal
+'''},
