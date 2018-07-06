@@ -56,3 +56,10 @@ NameError: name 'Cenapraia' is not defined
                                          ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Fri Jul 06 2018 10:56:27.161 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtpessoa = Texto(cenapraia, "bom dia”)
+                                         ^
+SyntaxError: EOL while scanning string literal
+'''},
