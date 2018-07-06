@@ -8,5 +8,6 @@ def historia():
    nemo = Elemento(img="http://www.araguaiaaquarios.com.br/loja/modules/possequence/images/image_1.jpg",
                   tit="nemo",
                   style = dict (top = 150, left = 60, height = 60, width = 200))
+   nemo.entra(cenaoceano)
    cenaoceano.vai()
 historia()
