@@ -49,3 +49,10 @@ SyntaxError: invalid syntax
                                                                                                                        ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Jul 06 2018 10:41:51.631 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  carro = Elemento(img = linkcarro, tit = "Carro", style = dict (top = 250, left = 150, height = 200, width = 10)
+                                                                                                                        ^
+SyntaxError: invalid syntax
+'''},
