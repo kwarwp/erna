@@ -84,3 +84,10 @@ SyntaxError: EOL while scanning string literal
                                         ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Fri Jul 06 2018 11:02:15.222 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtpessoa = Texto(cenapraia,"Bom Diaâ)
+                                          ^
+SyntaxError: EOL while scanning string literal
+'''},
