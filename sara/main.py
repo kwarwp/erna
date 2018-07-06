@@ -5,7 +5,7 @@ linkcarro = "http://www.vpowerautomoveis.com.br/home/imgs/carro_top4.png"
 # cheguei
 def historia():
      cenacastelo = Cena(img = "https://upload.wikimedia.org/wikipedia/commons/8/88/Castelo_de_Guimar%C3%A3es_%28Portugal%29.jpg")
-     carro = Elemento(img = linkcarro, tit = "Carro", style = dict (top = 200, left = 150, height = 200, width = 60))
+     carro = Elemento(img = linkcarro, tit = "Carro", style = dict (top = 220, left = 150, height = 200, width = 60))
      txtcarro = Texto(cenacastelo, "cheguei")
      carro.vai = txtcarro.vai
      carro.entra(cenacastelo)
