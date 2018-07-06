@@ -98,3 +98,10 @@ SyntaxError: invalid syntax
                                                                 ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Jul 06 2018 11:58:19.237 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  txtnemo = texto(cenaoceano,
+                                                                ^
+SyntaxError: invalid syntax
+'''},
