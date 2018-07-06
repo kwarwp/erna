@@ -42,3 +42,10 @@ NameError: name 'linkdonemo' is not defined
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Fri Jul 06 2018 11:28:37.436 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  tit="oceano"
+  ^
+IndentationError: unexpected indent
+'''},
