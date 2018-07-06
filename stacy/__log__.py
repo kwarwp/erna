@@ -27,3 +27,10 @@ SyntaxError: invalid syntax
                                                                                                                ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Jul 06 2018 10:25:59.517 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  paris = Elemento(img = linkparis, tit = 'Paris', style = dict (top = 60, left = 150, height = 200, width = 60))
+  ^
+IndentationError: unexpected indent
+'''},
