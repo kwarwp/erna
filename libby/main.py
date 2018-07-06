@@ -6,7 +6,7 @@ linkpassaros = https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&
 def historia():
      Cenalugar = Cena(img = "https://media-cdn.tripadvisor.com/media/photo-s/12/f8/68/3d/big-bus-paris-hop-on.jpg")   
      passaros = Elemento(img = linkpassaros, tit = "passaros", style = dict (top =  100,left =  160,height = 100, width = 100))
-     txtpassaros = Texto(nomeCena, "HELP!!!”)
+     txtpassaros = Texto(Cenalugar, "HELP!!!”)
      passaros.vai = txtpassaros.vai
      passaros.entra(Cenalugar)
      Cenalugar.vai()
