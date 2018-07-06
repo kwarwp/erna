@@ -56,3 +56,10 @@ NameError: name 'passarinho' is not defined
     passarinho.entra(Cenalugar)
 NameError: name 'passarinho' is not defined
 '''},
+{'date': 'Fri Jul 06 2018 11:00:43.15 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  linkpassaros = https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjX7I2gzYrcAhXFf5AKHYPfByMQjRx6BAgBEAU&url=http%3A%2F%2Fbemfacilpng.blogspot.com%2F2015%2F05%2Fpassaros-png.html&psig=AOvVaw0Drf1_1EWA-AN3_TzV-nb5&ust=1530970918980391
+                       ^
+SyntaxError: invalid syntax
+'''},
