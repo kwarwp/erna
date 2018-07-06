@@ -7,6 +7,7 @@ def historia ():
      cenafloresta = Cena(img = "http://2.bp.blogspot.com/-QfJCgBGjGLI/U7sgKKLbRWI/AAAAAAAAZEE/RXU-xgjdPlg/s1600/ZQHFqWr.jpg")
      hokage = Elemento(img = linkhokage, tit = "Hokage", style = dict (top = 60, left = 160, height = 800, width = 60))
      txthokage = Texto(Cenafloresta, "Ola eu sou o kakashi, o sexto hokage da aldeia da folha")
+     hokage.vai = txthokage.vai
      hokage.entra(cenafloresta)
      cenafloresta.vai()
 historia()
