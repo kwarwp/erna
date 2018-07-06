@@ -56,3 +56,10 @@ IndentationError: unexpected indent
                                                                                                              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Jul 06 2018 11:33:20.279 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  cenaoceano = Cena(img = "https://mardehistorias.files.wordpress.com/2010/11/oceano.jpg"
+                                                                                                             ^
+SyntaxError: invalid syntax
+'''},
