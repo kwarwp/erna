@@ -6,7 +6,7 @@ linkpessoa = "http://www.trackandfield.com.br/wordpress/wp-content/uploads/2014/
 def historia():
      cenapraia = Cena(img = "https://beachpark.com.br/mobile/wp-content/themes/beachpark/img/praia/apresentacao.jpg")
      pessoa = Elemento(img = linkpessoa, tit = "Pessoa", style = dict (top = 60, left = 150, height = 200, width = 60))
-     txtpessoa = Texto(cenapraia, "Bom Dia!”)
+     txtpessoa = Texto(cenapraia, "Bom Dia”)
      pessoa.vai = txtpessoa.vai
      pessoa.entra(cenapraia)
      cenapraia.vai()
