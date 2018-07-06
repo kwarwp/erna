@@ -35,3 +35,10 @@ TypeError: 'module' object is not callable
     nemo = Elemento(img=linkdonemo,
 NameError: name 'linkdonemo' is not defined
 '''},
+{'date': 'Fri Jul 06 2018 11:27:55.739 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  style = dict (top = 180, left = 40, height = 40, width = 170))
+  ^
+IndentationError: unexpected indent
+'''},
