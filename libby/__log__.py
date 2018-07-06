@@ -6,3 +6,10 @@
                                                                                                                        ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Jul 06 2018 10:32:08.983 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  passarinho.entrar(cenalugar)
+  ^
+IndentationError: unexpected indent
+'''},
