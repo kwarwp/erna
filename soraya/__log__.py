@@ -20,3 +20,10 @@ SyntaxError: EOL while scanning string literal
                                       ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Fri Jul 06 2018 10:57:09.368 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  txtaviao = Texto(cenacidade, "Help!!!”)
+                                         ^
+SyntaxError: EOL while scanning string literal
+'''},
