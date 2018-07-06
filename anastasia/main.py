@@ -9,5 +9,8 @@ def historia():
                   tit="nemo",
                   style = dict (top = 180, left = 40, height = 40, width = 170))
    nemo.entra(cenaoceano)
+   txtnemo = texto(cenaoceano,
+                  "Glub Glub"
+   nemo.vai = txtnemo.vai
    cenaoceano.vai()
 historia()
