@@ -6,8 +6,7 @@ linkparis = "http://www.freepngimg.com/download/paris/24125-5-paris-picture.png"
 def historia():
      ambiente4 = Cena(img = "https://i.imgur.com/Ei24vcD.png")
      paris = Elemento(img = linkparis, tit = 'Paris', style = dict (top = 50, left = 30, height = 50, width = 40))
-     txtparis = Texto(cenaambiente4, "A esquerda, temos o espaço game com computadores e videogames: playstation 4  e xboxone.
-")
+     txtparis = Texto(cenaambiente4, "A esquerda, temos o espaço game com computadores e videogames: playstation 4  e xboxone.")
      paris.vai = txtparis.vai
      paris.entra(ambiente4)
      ambiente4.vai()
