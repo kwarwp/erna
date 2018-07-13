@@ -6,7 +6,7 @@ linkparis = "http://www.freepngimg.com/download/paris/24125-5-paris-picture.png"
 def historia():
      ambiente4 = Cena(img = "https://i.imgur.com/Ei24vcD.png")
      paris = Elemento(img = linkparis, tit = 'Paris', style = dict (top = 50, left = 30, height = 50, width = 40))
-     txtparis = Texto(ambiente4 This is our digital environment)
+     txtparis = Texto(cenaambiente4 This is our digital environment)
      paris.vai = txtparis.vai
      paris.entra(ambiente4)
      ambiente4.vai()
