@@ -9,6 +9,6 @@ def historia():
      txtpessoa = Texto(cenaAMBIENTE3,"Bom Dia")
      pessoa.vai = txtpessoa.vai
      pessoa.entra(cenaAMBIENTE3)
-     cenapraia.vai()
+     cenaAMBIENTE3.vai()
 historia()
 
