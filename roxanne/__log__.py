@@ -247,3 +247,10 @@ NameError: name 'Cenatristeza' is not defined
     ferro.entra(cenatristeza)
 NameError: name 'cenatristeza' is not defined
 '''},
+{'date': 'Fri Jul 13 2018 11:31:53.523 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  ferro = Elemento(img = "https://images.vexels.com/media/users/3/142396/isolated/preview/9add3c87ed2e2669de35c7ee53d6606b-emoticon-triste-by-vexels.png"
+                                                                                                                                                                                   ^
+SyntaxError: invalid syntax
+'''},
