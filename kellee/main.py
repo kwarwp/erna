@@ -1,6 +1,6 @@
 from _spy.vitollino.main import Cena, Elemento, Texto
 #Matheus
-ambiente2 = "http://2.bp.blogspot.com/-QfJCgBGjGLI/U7sgKKLbRWI/AAAAAAAAZEE/RXU-xgjdPlg/s1600/ZQHFqWr.jpg"
+ambiente2 = "https://i.imgur.com/l1LT0JE.png"
 linkhokage = "https://i.pinimg.com/originals/39/02/44/390244b135c00088e1b8b7871d45957a.png"
 #Olá eu sou o kakashi, o sexto hokage da aldeia da folha
 def historia ():
