@@ -145,3 +145,10 @@ NameError: name 'cenapraia' is not defined
     cenapraia.vai()
 NameError: name 'cenapraia' is not defined
 '''},
+{'date': 'Fri Jul 13 2018 11:47:50.964 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtpessoa = Texto(cenaAMBIENTE3,"This is our digital environment.
+                                                                   ^
+SyntaxError: EOL while scanning string literal
+'''},
