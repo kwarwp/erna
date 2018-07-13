@@ -7,8 +7,8 @@ linkaviao = "http://i.imgur.com/geBGkhx.png"
 def historia():
      cenaambiente9= Cena(img = "https://i.imgur.com/38Sq4Jm.png")
      aviao = Elemento(img = linkaviao,tit = "Aviao", style = dict (top = 260, left = 150, height = 60, width = 60))
-     txtaviao = Texto(cenacidade, "Help")
+     txtaviao = Texto(ambiente9, "Help")
      aviao.vai=txtaviao.vai
-     aviao.entra(cenacidade)
-     cenacidade.vai()
+     aviao.entra(ambiente9)
+     cenaambiente9.vai()
 historia()
