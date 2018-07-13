@@ -152,3 +152,10 @@ NameError: name 'cenapraia' is not defined
                                                                    ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Fri Jul 13 2018 11:49:42.379 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  ")
+    ^
+SyntaxError: EOL while scanning string literal
+'''},
