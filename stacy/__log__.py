@@ -404,3 +404,10 @@ NameError: name 'cenaambiente4' is not defined
     txtparis = Texto(cenaambiente4, "This is our digital environment")
 NameError: name 'cenaambiente4' is not defined
 '''},
+{'date': 'Fri Jul 13 2018 11:52:05.625 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtparis = Texto(cenaambiente4, "A esquerda, temos o espaço game com computadores e videogames: playstation 4  e xboxone.
+                                                                                                                           ^
+SyntaxError: EOL while scanning string literal
+'''},
