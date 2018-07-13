@@ -8,7 +8,7 @@ def historia():
      pessoa = Elemento(img = linkpessoa, tit = "Pessoa", style = dict (top = 60, left = 150, height = 200, width = 60))
      txtpessoa = Texto(cenaAMBIENTE3,"Bom Dia")
      pessoa.vai = txtpessoa.vai
-     pessoa.entra(cenapraia)
+     pessoa.entra(cenaAMBIENTE3)
      cenapraia.vai()
 historia()
 
