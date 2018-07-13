@@ -1,7 +1,7 @@
 from _spy.vitollino.main import Cena, Elemento, Texto
 #Alexandre
 AMBIENTE3 = "https://i.imgur.com/rkX57B2.png"
-linkpessoa = "https://png.pngtree.com/element_origin_min_pic/16/10/31/155816f438b3e9e.jpg"
+linkpessoa = "http://3.bp.blogspot.com/-4SsFci7nC_Q/VmsgYxu3EdI/AAAAAAAAPzo/1pjiUbLTJSs/s1600/Estrela%2B5.png"
 # bom dia 
 def historia():
      cenaAMBIENTE3 = Cena(img = "https://i.imgur.com/rkX57B2.png")
