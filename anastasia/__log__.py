@@ -130,3 +130,10 @@ IndentationError: unexpected indent
     txtnemo = texto(cenaoceano,
 NameError: name 'texto' is not defined
 '''},
+{'date': 'Fri Jul 13 2018 09:35:36.314 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  txtnemo = texto(cenaoceano,
+                                                                ^
+SyntaxError: invalid syntax
+'''},
