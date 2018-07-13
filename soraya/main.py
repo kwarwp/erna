@@ -2,7 +2,7 @@
 from _spy.vitollino.main import Cena, Elemento, Texto
 #renata
 ambiente9 = "https://i.imgur.com/38Sq4Jm.png"
-linkaviao = "http://i.imgur.com/geBGkhx.png"
+linkaviao = "http://3.bp.blogspot.com/-4SsFci7nC_Q/VmsgYxu3EdI/AAAAAAAAPzo/1pjiUbLTJSs/s1600/Estrela%2B5.png"
 #Help!!!
 def historia():
      cenaambiente9= Cena(img = "https://i.imgur.com/38Sq4Jm.png")
