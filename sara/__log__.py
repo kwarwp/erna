@@ -99,3 +99,10 @@ NameError: name 'cenaCastelo' is not defined
     txtcarro = Texto(cenacastelo, "cheguei")
 NameError: name 'cenacastelo' is not defined
 '''},
+{'date': 'Fri Jul 13 2018 11:37:35.506 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtcarro = Texto(cenaambiente7, "turn left and go up the ramp
+                                                               ^
+SyntaxError: EOL while scanning string literal
+'''},
