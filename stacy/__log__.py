@@ -307,3 +307,10 @@ SyntaxError: invalid syntax
                               ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Jul 13 2018 11:43:20.850 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtparis = Texto(ambiente4 This is our digital environment)
+                              ^
+SyntaxError: invalid syntax
+'''},
