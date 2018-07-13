@@ -42,3 +42,10 @@ TypeError: 'module' object is not callable
     cenatristeza.vai()
 NameError: name 'cenatristeza' is not defined
 '''},
+{'date': 'Fri Jul 13 2018 10:38:48.990 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  cenaTristreza.vai()
+  ^
+IndentationError: unexpected indent
+'''},
