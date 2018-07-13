@@ -286,3 +286,10 @@ NameError: name 'cenaCeu' is not defined
     txtcena = Texto(cenaParis,"PARIIS")
 NameError: name 'cenaParis' is not defined
 '''},
+{'date': 'Fri Jul 13 2018 11:40:05.470 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  txtparis = Texto(ambiente4,Este é o nosso ambiente digital.
+                                   ^
+SyntaxError: invalid syntax
+'''},
