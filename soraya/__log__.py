@@ -159,3 +159,10 @@ AttributeError: 'str' object has no attribute 'nome'
     self.scorer.update(valor=cena.nome, move=self.xy,
 AttributeError: 'str' object has no attribute 'nome'
 '''},
+{'date': 'Fri Jul 13 2018 11:50:49.666 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  txtaviao = Texto(ambiente9, "Feel free to those a computer. The teacher is on her way"
+                                                                                                ^
+SyntaxError: invalid syntax
+'''},
