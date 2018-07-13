@@ -6,8 +6,8 @@ linkcarro = "http://www.vpowerautomoveis.com.br/home/imgs/carro_top4.png"
 def historia():
      cenaambiente7 = Cena(img = "https://i.imgur.com/YEk25am.png")
      carro = Elemento(img = linkcarro, tit = "Carro", style = dict (top = 220, left = 150, height = 200, width = 60))
-     txtcarro = Texto(cenacastelo, "cheguei")
+     txtcarro = Texto(cenaambiente7, "cheguei")
      carro.vai = txtcarro.vai
-     carro.entra(cenacastelo)
-     cenacastelo.vai()
+     carro.entra(cenaambiente7)
+     cenaambiente7.vai()
 historia()
