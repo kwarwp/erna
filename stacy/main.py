@@ -1,6 +1,6 @@
 from _spy.vitollino.main import Cena, Elemento, Texto
 #Tassiane 
-ceu = "https://png.pngtree.com/thumb_back/fw800/back_pic/03/56/29/24579dee6c24b45.jpg"
+ambiente4 = "https://png.pngtree.com/thumb_back/fw800/back_pic/03/56/29/24579dee6c24b45.jpg"
 linkparis = "http://www.freepngimg.com/download/paris/24125-5-paris-picture.png"
 #Bonne nuit
 def historia():
@@ -10,4 +10,4 @@ def historia():
      paris.vai = txtparis.vai
      paris.entra(ambiente4)
      ambiente4.vai()
-historia()  
+historia()   
