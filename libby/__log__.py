@@ -77,3 +77,10 @@ SyntaxError: invalid syntax
                        ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Sep 28 2018 07:38:06.440 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  linkpassaros = https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjX7I2gzYrcAhXFf5AKHYPfByMQjRx6BAgBEAU&url=http%3A%2F%2Fbemfacilpng.blogspot.com%2F2015%2F05%2Fpassaros-png.html&psig=AOvVaw0Drf1_1EWA-AN3_TzV-nb5&ust=1530970918980391
+                       ^
+SyntaxError: invalid syntax
+'''},
