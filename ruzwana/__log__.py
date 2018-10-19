@@ -35,3 +35,10 @@ AttributeError: 'Cena' object has no attribute 'Vai'
     ILHA.Vai ()
 AttributeError: 'Cena' object has no attribute 'Vai'
 '''},
+{'date': 'Fri Oct 19 2018 11:45:36.706 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  ZUMBI9.entra(CEMITERIO)
+  ^
+IndentationError: unexpected indent
+'''},
