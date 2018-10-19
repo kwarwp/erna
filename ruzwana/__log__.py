@@ -95,3 +95,10 @@ SyntaxError: EOL while scanning string literal
                                                                                                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 19 2018 11:59:02.592 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  zumbi= Elemento(img =ZUMBI,tit="Zumbi",style=dict(left = 180, top = 40, heigth = 40, width = 170)
+                                                                                                         ^
+SyntaxError: invalid syntax
+'''},
