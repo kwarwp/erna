@@ -1,4 +1,4 @@
-# Leandro
+#bruno
 from _spy.vitollino.main import Cena, Elemento, Texto
 
 ZUMBI ="http://www.deezer-blog.com/assets/http://www.deezer-blog.com/assets/sites/8/2015/10/zumbiblog.pngsites/8/2015/10/zumbiblog.png"
