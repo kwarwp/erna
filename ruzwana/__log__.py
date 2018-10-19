@@ -74,3 +74,10 @@ NameError: name 'ZUMBI9' is not defined
     zumbi9.entra(CEMITERIO)
 NameError: name 'zumbi9' is not defined
 '''},
+{'date': 'Fri Oct 19 2018 11:49:45.168 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  zumbi= Elemento(https://cdn.pixabay.com/photo/2017/01/09/14/59/zombie-1966751_960_720.png))
+                        ^
+SyntaxError: invalid syntax
+'''},
