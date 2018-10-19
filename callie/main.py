@@ -1,4 +1,4 @@
-#bruno
+# Leandro
 from _spy.vitollino.main import Cena, Elemento, Texto
 
 ZUMBI ="http://www.deezer-blog.com/assets/http://www.deezer-blog.com/assets/sites/8/2015/10/zumbiblog.pngsites/8/2015/10/zumbiblog.png"
@@ -8,4 +8,4 @@ def Historia():
     zumbi9= Elemento(img=ZUMBI,tit="ZUMBI",style=dict(left=150, top=60, width=60,height=200))
     zumbi9.entra(ILHA)
     ILHA.vai ()
-Historia()
+   Historia()
