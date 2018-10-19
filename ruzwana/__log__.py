@@ -81,3 +81,10 @@ NameError: name 'zumbi9' is not defined
                         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 19 2018 11:50:13.326 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  zumbi= Elemento(img ="https://cdn.pixabay.com/photo/2017/01/09/14/59/zombie-1966751_960_720.png))
+                                                                                                   ^
+SyntaxError: EOL while scanning string literal
+'''},
