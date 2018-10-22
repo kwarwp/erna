@@ -20,3 +20,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Mon Oct 22 2018 18:28:11.535 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  GOKU ="https://i.ytimg.com/vi/jEjtNGZnsak/hqdefault.jpg"
+  ^
+IndentationError: expected an indented block
+'''},
