@@ -1,4 +1,4 @@
-# Cibele
+# sergio
 from _spy.vitollino.main import Cena, Elemento, Texto
 
 ZUMBI ="https://images.vexels.com/media/users/3/149936/isolated/preview/a169be67e61672671368d23ac8db8b17-sereia-posar-silueta-by-vexels.png"
