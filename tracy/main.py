@@ -9,6 +9,6 @@ def Historia():
               style = dict(left=150, top=60, width=60, height=200))
     cacador.entra(cenaFloresta)
     txtcacador = Texto (cenaFloresta, "Hello")
-    txtcacador.vai = cacador.vai
+    cacador.vai = txtcacador.vai
     cenaFloresta.vai()
 Historia()
