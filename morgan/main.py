@@ -6,7 +6,7 @@ def Historia():
     cenaTeatro = Cena(img ="https://supygirls.readthedocs.io/en/latest/_images/DungeonWall.jpg")
     goku = Elemento(img= GOKU,
            tit ="Goku",
-           style = dict(left=150, top=60,width=60, height=200))
+           style = dict(left=100, top=157,width=60, height=200))
     goku.entra(cenaTeatro)
     txtgoku=Texto (cenaTeatro, "Hello")
     goku.vai=txtgoku.vai
