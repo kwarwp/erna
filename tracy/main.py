@@ -6,7 +6,10 @@ def Historia():
     cenaFloresta=Cena(img="https://beira.pt/coolkids/wp-content/uploads/sites/7/2014/08/universo.png")
     cacador = Elemento(img= CACADOR,
               tit ="Caçador",
-              style = dict(left=165,top=60, width=60, height=200))
+              style = dict(left=150
+              ,top=170
+              
+              , width=60, height=200))
     cacador.entra(cenaFloresta)
     txtcacador = Texto (cenaFloresta, "Hello")
     cacador.vai = txtcacador.vai
