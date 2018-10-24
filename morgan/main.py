@@ -1,9 +1,9 @@
 # mariahduarte
 from _spy.vitollino.main import Cena, Elemento, Texto
 
-GOKU ="https://i.ytimg.com/vi/jEjtNGZnsak/hqdefault.jpg"
+GOKU ="http://img01.deviantart.net/01b7/i/2016/350/d/7/goku_universo_survival_dbs_by_jaredsongohan-daru6yn.png"
 def Historia():
-    cenaTeatro = Cena(img ="http://1.bp.blogspot.com/-aGwacYjRKw8/T-St9kEVvMI/Avs/ximTg6O8XUA/s1600/ESCENARIOS29+%282%.jpg")
+    cenaTeatro = Cena(img ="https://supygirls.readthedocs.io/en/latest/_images/DungeonWall.jpg")
     goku = Elemento(img= GOKU,
            tit ="Goku",
            style = dict(left=150, top=60,width=60, height=200))
