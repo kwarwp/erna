@@ -1,9 +1,9 @@
 # DANIEL
 from _spy.vitollino.main import Cena, Elemento,Texto
 
-CACADOR="https://2.bp.blogspot.com/-proH1UNc9Yw/V1ShJQ0HsMI/AAAAAAAAGF4/dSBPvEvXwDYFgEi1jLNlIcnc6JwKhmtawCLcB/s1600/o-ca%25C3%25A7ador-e-a-rainha-do-gelo-poshhterk.png"
+CACADOR="http://1.bp.blogspot.com/-0kys80OhYn4/U955vuWvpKI/AAAAAAAAZU4/LoppJ0dcKJA/s1600/guardioesdagalaxia_sess%C3%A3o+cr%C3%ADtica.png"
 def Historia():
-    cenaFloresta=Cena(img="http://homeroreis.com/wp-content/uploads/2015/10/floresta.jpg")
+    cenaFloresta=Cena(img="https://beira.pt/coolkids/wp-content/uploads/sites/7/2014/08/universo.png")
     cacador = Elemento(img= CACADOR,
               tit ="Caçador",
               style = dict(left=150, top=60, width=60, height=200))
