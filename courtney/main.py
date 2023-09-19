@@ -11,7 +11,7 @@ class IlhaProibida:
     def __init__(self):
         oceano = Cena(IMAGEM).vai()
         portao = Elemento(PORTAO_BRONZE, X=10, Y=50, W=100, H=100, tit = "Portão de Bronze", cena=oceano)
-        palacio = Elemento(PALACIO_CORAL, x= 10, Y=50, W=100, H=100, cena=oceano)
+        palacio = Elemento(PALACIO_CORAL, x= 120, Y=50, W=100, H=100, cena=oceano)
         self.peao = Peao(oceano)
         
     
