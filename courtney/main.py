@@ -56,11 +56,11 @@ Terrenos
         self.peao = Peao(oceano)
         """
     def direita(self, terreno):
-    """Move o peao para a direita.
+        """Move o peao para a direita.
     
     :param terreno:: O terreno aonde está o peão
     :return: O terreno para onde vai
-    """
+        """
     
     aqui = self.terrenos.index(terreno)
     return self.terrenos[aqui+1]
