@@ -37,12 +37,11 @@ PAWN = "https://imgur.com/zO3kiRp.png"
 
 
 class IlhaProibida:
-
-"""Representa a classe principal do jogo
+    """Representa a classe principal do jogo
 
 Terrenos
    Locais onde o peão pode ficar
-"""
+    """
 
     def __init__(self):
         self.oceano = oceano = Cena(IMAGEM).vai()
