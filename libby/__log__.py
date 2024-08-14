@@ -84,3 +84,10 @@ SyntaxError: invalid syntax
                        ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Aug 14 2024 15:26:17.300 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 2
+  from _spy.vitollino.main  import
+                                  ^
+SyntaxError: trailing comma not allowed without surrounding parentheses
+'''},
